@@ -13,7 +13,7 @@ USHPA, USHP and USHR: Efficient Parallel Algorithms for Hiding High-Utility Sequ
 3. sanitized: dir where sanitized dataset is written to here
 4. hiding-out.txt: hiding results
 5. mining-out.txt: mining results
-6. hiding-random-out.txt: hinding PF results, when run USHP or USHP with upsilon > 0
+6. hiding-random-out.txt: hinding PF results, when run USHP or USHR with upsilon > 0
 
 # Acknowledgment
 This research is funded by Vietnam National Foundation for Science and Technology Development (NAFOSTED) under grant number 102.05-2018.307.
