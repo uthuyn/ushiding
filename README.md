@@ -3,7 +3,7 @@ USHPA, USHP and USHR: Efficient Parallel Algorithms for Hiding High-Utility Sequ
 
 # How To Run
 - Modify the bin/run.bat at your criteria
-- Excute run.bat
+- Execute run.bat
 
 # Repository Structure
 1. bin
