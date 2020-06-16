@@ -1,5 +1,5 @@
 # High Utility Sequential Pattern Hiding
-USHPA, USHP and USHR: Efficient Parallel Algorithms for Hiding High-Utility Sequential Patterns
+Multi-core parallel algorithms for hiding high-utility sequential patterns
 
 # How To Run
 - Modify the bin/run.bat at your criteria
