@@ -1,11 +1,17 @@
-# High Utility Sequential Pattern Hiding
-Multi-core parallel algorithms for hiding high-utility sequential patterns
+# Multi-core parallel algorithms for hiding high-utility sequential patterns
+
+This paper proposes three algorithms named:
+1. High Utility Sequential Pattern Hiding Using Pure Array Structure (USHPA)
+2. High Utility Sequential Pattern Hiding Using Parallel Strategy(USHP)
+3. High Utility Sequential Pattern Hiding Using Random Distribution Strategy (USHR) 
+
+for hiding high-utility sequential patterns on quantitative sequence datasets. 
 
 # How To Run
 - Modify the bin/run.bat at your criteria
 - Execute run.bat
 
-# Repository Structure
+# Folder Structure
 1. bin
   - run.bat
   - USH.exe: built binary executable file
