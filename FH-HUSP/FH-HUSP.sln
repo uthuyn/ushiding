@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FH-HUSP", "FH-HUSP\FH-HUSP.csproj", "{70A1CBFC-2FC0-49F2-B87C-4CD14AB7688D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A1CBFC-2FC0-49F2-B87C-4CD14AB7688D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A1CBFC-2FC0-49F2-B87C-4CD14AB7688D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A1CBFC-2FC0-49F2-B87C-4CD14AB7688D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A1CBFC-2FC0-49F2-B87C-4CD14AB7688D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47BA2C8B-EE8B-4463-82AB-459396B7EAA8}
+	EndGlobalSection
+EndGlobal
